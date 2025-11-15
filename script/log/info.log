@@ -2414,3 +2414,29 @@ Caused by: org.postgresql.util.PSQLException: ERROR: insert or update on table "
 2025-11-14 14:20:05,514 - INFO - ===== Start Load data to the database =====
 2025-11-14 14:20:21,510 - INFO - ===== Finish Load data to the database =====
 2025-11-14 14:20:21,517 - INFO - Closing down clientserver connection
+2025-11-14 14:35:06,224 - INFO - ===== Start Transform Customer Data =====
+2025-11-14 14:35:07,705 - INFO - ===== Finish Transform Customer Data =====
+2025-11-14 14:35:49,182 - INFO - ===== Start Extracting education_status data (Database) =====
+2025-11-14 14:35:50,687 - INFO - ===== Finish Extracting education_status data =====
+2025-11-14 14:35:53,882 - INFO - ===== Start Extracting marital_status data (Database) =====
+2025-11-14 14:35:53,970 - INFO - ===== Finish Extracting marital_status data =====
+2025-11-14 14:35:54,230 - INFO - ===== Start Extracting marketing_campaign_deposit data (Database) =====
+2025-11-14 14:35:54,331 - INFO - ===== Finish Extracting marketing_campaign_deposit data =====
+2025-11-14 14:35:54,991 - INFO - ===== Start Extracting new_bank_transaction data (CSV) =====
+2025-11-14 14:35:56,121 - INFO - ===== Finish Extracting new_bank_transaction data =====
+2025-11-14 14:36:17,748 - INFO - ===== Start Transform Marketing Data =====
+2025-11-14 14:36:17,838 - INFO - ===== Finish Transform Marketing Data =====
+2025-11-14 14:36:22,267 - INFO - ===== Start Transform Customer Data =====
+2025-11-14 14:36:22,511 - INFO - ===== Finish Transform Customer Data =====
+2025-11-14 14:36:28,773 - INFO - ===== Start Transform Customer Data =====
+2025-11-14 14:36:28,840 - INFO - ===== Finish Transform Transaction Data =====
+2025-11-14 14:36:29,577 - INFO - ===== Start Load data to the database =====
+2025-11-14 14:36:29,940 - INFO - ===== Finish Load data to the database =====
+2025-11-14 14:36:29,987 - INFO - ===== Start Load data to the database =====
+2025-11-14 14:36:30,146 - INFO - ===== Finish Load data to the database =====
+2025-11-14 14:36:30,202 - INFO - ===== Start Load data to the database =====
+2025-11-14 14:36:32,843 - INFO - ===== Finish Load data to the database =====
+2025-11-14 14:36:33,338 - INFO - ===== Start Load data to the database =====
+2025-11-14 14:36:46,992 - INFO - ===== Finish Load data to the database =====
+2025-11-14 14:36:47,101 - INFO - ===== Start Load data to the database =====
+2025-11-14 14:37:06,184 - INFO - ===== Finish Load data to the database =====
